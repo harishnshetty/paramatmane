@@ -1,0 +1,23 @@
+This is the Documentation file Regrading hosted on the GitHub and data fetch from the google sheets and google Forms
+
+Step 1 :
+
+Create your Own Google Forms what you like to enter your about business.
+
+Step 2 :
+
+Now create the new Google Sheets or link the existing sheet in your own google drive account
+
+Step 3 :
+
+Go to the Google Console Here create one project and enable the google Sheet API ( Some times you need a google Drive ) in the Search Bar on the top the Google Console.
+
+Step 4 :
+
+After enabling the API . Now Create the API Key . here Secure your API keys from the Restricted Policy 
+	Select your GitHub account which only that account should access this API key
+	Select the Google Sheet . Which Application should only access this API key
+
+Step 5 :
+
+ones the API is Secured now . host your Web Application into the GitHub.io here go to the Settings and create on the Pages and click the Host Button to publish your GitHub Repo to access web from anywhere like the website . this is the free to host your website publicly and you can take Enterprise Subscription to host your site in the Private Repo.    
